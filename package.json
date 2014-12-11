@@ -2,7 +2,7 @@
   "name": "e-quis-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Just a test syntax highlighter based on Seti-Ui",
   "repository": "https://github.com/atom/e-quis-syntax",
   "license": "MIT",
   "engines": {
